@@ -9,4 +9,4 @@ Before you start you have to install npm modules: `npm install`
 Run `npm run dev`
 
 ## Reference blog post
-please visit `Jean-Marc Möckel` blog at [freecodecamp] (https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api "REST API Design Best Practices Handbook")
+please visit `Jean-Marc Möckel` blog at [Free Code Camp](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api "REST API Design Best Practices Handbook")
